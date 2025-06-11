@@ -7,5 +7,8 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
   </StrictMode>,
+
+  //שלום לבתיה
   //שלום לדיני קופמן
+
 )
